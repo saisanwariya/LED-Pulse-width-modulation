@@ -1,4 +1,4 @@
-# LED Light ON/OFF and Switch ON/OFF - Readme
+# LED Light ON/OFF and Switch ON/OFF
 
 ## Academic Integrity Statement
 
